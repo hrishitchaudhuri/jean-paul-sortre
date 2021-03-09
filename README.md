@@ -1,9 +1,8 @@
 # Assignment 1 (Design and Analysis of Algorithms -- UE19CS251)
 
-### Author: Hrishit Chaudhuri
-### SRN: PES1UG19CS187
-### Section: 4C
-### Date of Completion: 18-02-2021
+```
+@author: hrishit chaudhuri
+```
 
 To start, run the following commands.  
 ```
